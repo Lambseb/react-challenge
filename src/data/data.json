@@ -1,0 +1,49 @@
+[
+    {
+        "id": "cardOne",
+        "title": "TableauMimi",
+        "description": "ce tableau et fait dans le pur style de la génération X",
+        "price": "100 000€",
+        "image": "",
+        "category": "Kid"
+    },
+    {
+        "id": "cardTwo",
+        "title": "la Fracture",
+        "description": "ca fait mal !",
+        "price": "10 500 €",
+        "image": "",
+        "category": "Broken"
+    },
+    {
+        "id": "cardTree",
+        "title": "Le grand ouest",
+        "description": "un voyage... sympa",
+        "price": "5 000 €",
+        "category": "Kid"
+    },
+    {
+        "id": "cardFour",
+        "title": "Tarabistouille",
+        "description": "Voila enfin de l'art",
+        "price": "23 500 €",
+        "image": "",
+        "category": "Modern"
+    },
+    {
+        "id": "cardFive",
+        "title": "Fifite la Girafe",
+        "description": "pour la découpe",
+        "price": "40 000 €",
+        "image": "",
+        "category": "Kid"
+    },
+    {
+        "id": "cardsix",
+        "title": "Ayoub on the floor",
+        "description": "il fallait bien une Muse pour cette Galerie",
+        "price": "2€",
+        "image": "",
+        "category": "Modern"
+    }
+]
