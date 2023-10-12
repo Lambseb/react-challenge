@@ -2,9 +2,9 @@
   {
     "id": "cardOne",
     "title": "TableauMimi",
-    "description": "ce tableau et fait le pur style de la génération X",
+    "description": "ce tableau et fait dans le pur style de la génération X",
     "price": "100 000€",
-    "image": "",
+    "image": "/images/TableauMimi.png",
     "category": "Kid"
   },
   {
@@ -12,7 +12,7 @@
     "title": "la Fracture",
     "description": "ca fait mal !",
     "price": "10 500 €",
-    "image": "",
+    "image": "/images/LaFracture.png",
     "category": "Broken"
   },
   {
@@ -20,6 +20,7 @@
     "title": "Le grand ouest",
     "description": "un voyage... sympa",
     "price": "5 000 €",
+    "image": "/images/LeGrandOuest.png",
     "category": "Kid"
   },
   {
@@ -27,7 +28,7 @@
     "title": "Tarabistouille",
     "description": "Voila enfin de l'art",
     "price": "23 500 €",
-    "image": "",
+    "image": "/images/Tarabistouille.png",
     "category": "Modern"
   },
   {
@@ -35,7 +36,7 @@
     "title": "Fifite la Girafe",
     "description": "pour la découpe",
     "price": "40 000 €",
-    "image": "",
+    "image": "/images/Fitfite.png",
     "category": "Kid"
   },
   {
@@ -43,7 +44,7 @@
     "title": "Ayoub on the floor",
     "description": "il fallait bien une Muse pour cette Galerie",
     "price": "2€",
-    "image": "",
+    "image": "/images/AyoubOTF.png",
     "category": "Unleashed"
   }
 ]
