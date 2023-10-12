@@ -1,7 +1,7 @@
 [
   {
     "id": "cardOne",
-    "title": "TableauMimi",
+    "title": "Tableau Mimi",
     "description": "ce tableau et fait dans le pur style de la génération X",
     "price": "100 000€",
     "image": "/images/TableauMimi.png",
@@ -9,7 +9,7 @@
   },
   {
     "id": "cardTwo",
-    "title": "la Fracture",
+    "title": "La Fracture",
     "description": "ca fait mal !",
     "price": "10 500 €",
     "image": "/images/LaFracture.png",

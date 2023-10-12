@@ -9,13 +9,17 @@ import Navbar from "./component/Navbar";
 function App() {
   return (
     <>
-      <div>
-        <Navbar />
-        <div>
-          <CardList />
-        </div>
+      <header>
+        <nav>
+          <Navbar />
+        </nav>
+      </header>
+      <section>
+        <CardList />
+      </section>
+      <footer>
         <Footer />
-      </div>
+      </footer>
     </>
   );
 }

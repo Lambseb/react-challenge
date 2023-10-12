@@ -1,8 +1,5 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+* {
+  background-color: #ffffff;
 }
 
 .logo {
@@ -11,32 +8,57 @@
   will-change: filter;
   transition: filter 300ms;
 }
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-top: 15em;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
-.card {
+.element {
+  display: flex;
+  flex-direction: column;
   padding: 2em;
+  white-space: normal;
+  align-items: center;
+  width: 15em;
+  height: 20em;
+  margin: 2em;
+  background-color: #4ba3c3;
+  border-radius: 10px;
+  box-shadow: 4px 4px 12px 4px rgba(0, 0, 0, 0.4);
 }
 
-.read-the-docs {
-  color: #888;
+.images {
+  border-radius: 10px;
+  height: 12em;
+  width: 12em;
+}
+
+h1 {
+  color: black;
+  font-size: 1.5em;
+}
+
+h2 {
+  background-color: #4ba3c3;
+}
+
+p {
+  background-color: #4ba3c3;
+}
+
+.title {
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+}
+
+.footer {
+  margin-top: 5em;
 }
